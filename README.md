@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/nickpalade">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Shipping+games+on+Roblox+in+Luau+%F0%9F%8E%AE;Building+AI+tools+for+Claude+Code+%F0%9F%A4%96;Running+ops+at+Colvex+%E2%9A%99%EF%B8%8F;Rust+%2B+TypeScript+%2B+Python+%E2%9A%A1;Studying+Finance+at+TU+Delft+%F0%9F%93%88" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Making+games+people+actually+play+%F0%9F%8E%AE;Building+AI+tools+for+Claude+Code+%F0%9F%A4%96;Running+ops+at+Colvex+%E2%9A%99%EF%B8%8F;Rust+%2B+TypeScript+%2B+Python+%E2%9A%A1;Studying+Finance+at+TU+Delft+%F0%9F%93%88" alt="typing intro" />
 </a>
 
 <br/>
@@ -24,8 +24,8 @@
 local Nick = {
     name      = "Nicholas Palade",
     based     = "Netherlands 🇳🇱",
-    building  = { "Roblox games", "AI dev tools", "web apps" },
-    work      = { "Head of Operations @ Colvex", "Roblox scripter", "startup co-founder" },
+    building  = { "games", "AI dev tools", "web apps" },
+    work      = { "Head of Operations @ Colvex", "game developer", "startup co-founder" },
     studying  = "Finance minor @ TU Delft",
     languages = { "Luau", "TypeScript", "Rust", "Python", "Java" },
     motto     = "ship it, then make it feel good",
@@ -34,7 +34,7 @@ local Nick = {
 return Nick
 ```
 
-- 🎮 **Game developer**: I script Roblox games in **Luau**: gameplay systems, UI, server-authoritative remotes and anti-exploit, Rojo-based workflows with real tests. On the side I build my own chaotic meme games.
+- 🎮 **Game developer**: multiplayer games: gameplay systems, UI, server-authoritative netcode and anti-cheat, with real automated tests. On the side I build my own chaotic meme games.
 - 🤖 **AI tooling**: I build tools that make coding agents actually useful, like plain-text memory and launchers for Claude Code.
 - 🏢 **Ops & product**: running operations at an AI consultancy and co-leading tech for a startup.
 - 📈 **Finance nerd in training**: options pricing, volatility, risk, backtesting.
@@ -45,15 +45,9 @@ return Nick
 
 <div align="center">
 
-**🎮 Game dev**
-
-<img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" height="34" alt="roblox studio" />
-<img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="34" alt="luau" />
-<img src="https://img.shields.io/badge/Rojo-E13835?style=for-the-badge&logo=roblox&logoColor=white" height="34" alt="rojo" />
-<img src="https://img.shields.io/badge/Lune-1F2937?style=for-the-badge&logo=lua&logoColor=white" height="34" alt="lune" />
-
 **💻 Languages**
 
+<img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="34" alt="luau" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="34" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="34" alt="javascript" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="34" alt="rust" />
@@ -99,7 +93,7 @@ return Nick
 | 💸 | **[HabitHunter](https://github.com/nickpalade/HabitHunter)** | Personal finance app: multi-currency, budget goals, auto-categorisation, analytics |
 | 📚 | **[HomeworkHacker](https://github.com/nickpalade/HomeworkHacker)** | AI study companion that keeps you focused on your assignments |
 | ✍️ | **[paraphraser](https://github.com/nickpalade/paraphraser)** | AI paraphrasing with synonym review and code/text editor modes |
-| 🎮 | **Roblox games** | Gameplay systems, UI and anti-exploit in Luau. Coming soon to a server near you 👀 |
+| 🎮 | **Games** | Multiplayer gameplay systems, UI and anti-cheat. Coming soon to a server near you 👀 |
 
 ---
 
@@ -138,7 +132,8 @@ return Nick
 
 <a href="https://github.com/nickpalade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="github" /></a>
 <a href="https://github.com/ColvexAI"><img src="https://img.shields.io/badge/Colvex-0f5132?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" alt="colvex" /></a>
-<!-- TODO: add your LinkedIn / email / Roblox profile links here -->
+<a href="https://www.linkedin.com/in/nick-palade-7a9154262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="linkedin" /></a>
+<a href="mailto:npalade09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="email" /></a>
 
 </div>
 
