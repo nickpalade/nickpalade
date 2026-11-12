@@ -46,9 +46,11 @@
 
 ###
 
+- **[Brújula](https://github.com/nickpalade/Brujula)**: Offline disaster-response coordination running on-device Gemma. Built at the RAISE Summit Hackathon 2026 (Google DeepMind track).
 - **[kbsmith](https://github.com/nickpalade/kbsmith)**: Plain-text memory for Claude Code. A numbered-file knowledge base with hooks, installed in a single chat.
 - **[autonpm](https://github.com/nickpalade/autonpm)**: A Rust launcher that starts your apps and AI coding tools without opening an IDE.
 - **[yupooscraper](https://github.com/nickpalade/yupooscraper)**: Full-stack product scraper with computer-vision tagging, search and colour matching.
+- **[HelixHunters](https://github.com/nickpalade/HelixHunters)**: Neural networks that predict RNA 3D structure, built for the Stanford RNA 3D Folding competition.
 - **[HabitHunter](https://github.com/nickpalade/HabitHunter)**: Personal finance web app with multi-currency tracking, budget goals, auto-categorisation and spending analytics.
 - **[HomeworkHacker](https://github.com/nickpalade/HomeworkHacker)**: AI-powered study companion that helps you focus and finish assignments.
 - **[paraphraser](https://github.com/nickpalade/paraphraser)**: Web app for AI-assisted paraphrasing with synonym review and code/text editor modes.
@@ -56,6 +58,5 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=nickpalade&layout=compact&theme=dark" alt="nickpalade github readme top-langs" width="32.5%"/>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=nickpalade&theme=dark" width="45%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=nickpalade&layout=compact&theme=dark&hide=html,css&langs_count=6" alt="nickpalade github readme top-langs" width="40%"/>
 </div>
